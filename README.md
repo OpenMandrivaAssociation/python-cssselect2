@@ -1,1 +1,1 @@
-# python-cssselect2
+# python-cssselect2 Builring this for python3 only needed by python-cairosvg which is also python3 only.
