@@ -3,7 +3,7 @@
 Summary: Library for parsing CSS3 selectors and translating them to XPath 1.0
 Name:	 python-%{module}
 Version: 0.2.1
-Release: 2
+Release: 3
 Source0: https://github.com/Kozea/cssselect2/%{module}-%{version}.tar.gz
 License: BSD
 Group:	 Development/Python
