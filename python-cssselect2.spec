@@ -2,7 +2,7 @@
 
 Name:	 	python-cssselect2
 Version:	0.9.0
-Release:	1
+Release:	2
 Summary:	CSS selectors for Python ElementTree
 License:	BSD-3-Clause
 Group:	 	Development/Python
